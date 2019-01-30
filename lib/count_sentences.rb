@@ -17,7 +17,7 @@ class String
   def count_sentences
     str = ""
     if self.sentence?
-      
+      str += 
 
   end
 end
